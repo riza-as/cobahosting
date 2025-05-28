@@ -10,7 +10,7 @@
     <p>Cuman Coba Hosting weh ini mah </p>
     <td>
         <tr>
-            <a href="/tampil">pencet weh</a>
+            <a href="/tampil">pencet weh mau liat data diri mah</a>
         </tr>
     </td>
   
