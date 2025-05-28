@@ -52,14 +52,15 @@ button:hover, a:hover {
   <h1>Riza Ad Dzikri</h1>
   <p class="title">Budak Wikrama Garut</p>
   <p>Jurusan PPLG</p>
-  <a href="#"><i class="fa fa-dribbble"></i></a>
-  <a href="#"><i class="fa fa-twitter"></i></a>
+  <a href="https://github.com/riza-as"><i class="fa fa-github"></i></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox"><i class="fa fa-google"></i></a>
   <a href="#"><i class="fa fa-linkedin"></i></a>
-  <a href="#"><i class="fa fa-facebook"></i></a>
+  <a href="https://www.facebook.com/riza.a.setiawan.56"><i class="fa fa-facebook"></i></a>
   <p><button>Contact</button></p>
+   <a href="/">balik deui</a>
 </div>
 
-    <a href="/">balik deui</a>
+   
 
 </body>
 </html>
